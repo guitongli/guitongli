@@ -5,12 +5,13 @@
  
  
 
-<p  align="center"> I'm a Full-Stack JavaScript Developer and an Enthusiast of UI Engineering
+<p  align="center"> I'm a Full-Stack JavaScript Developer and an Enthusiast of UI Engineering</p>
 
-- 🦙 currently working on the website for an international music education organization
-- 🌱 currently learning D3.js, p5.js, WordPress backend architecture...
-- 💬 Ask me about how to compose on guitar with special tuning
-- 📫 Feel free to reach out to me at guitong.lee.contact@gmail.com</p>
+<p  align="center"> 🦙 currently working on the website for an international music education organization </p>
+<p  align="center"> 🌱 currently learning D3.js, p5.js, WordPress backend architecture... </p>
+<p  align="center"> 💬 Ask me about how to compose on guitar with special tuning </p> 
+<p  align="center"> 📫 Feel free to reach out to me at guitong.lee.contact@gmail.com</p>
+ 
 
   <br> 
  
