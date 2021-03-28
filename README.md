@@ -3,7 +3,7 @@
  
 <p align="center"> (Open for Hiring)</p>
  
- 
+ <hr>
 
 <p  align="center"> I'm a Full-Stack JavaScript Developer and an Enthusiast of UI Engineering</p>
 
