@@ -8,5 +8,6 @@ I'm a Full-Stack JavaScript Developer and an Enthusiast of UI Engineering
 - 💬 Ask me about how to compose on guitar with special tuning
 - 📫 Feel free to reach out to me at guitong.lee.contact@gmail.com
 
-
-[<img src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guitong-li-05b3bb87/)]
+[<img src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guitong-li-05b3bb87/)
+                                                                                                                 
+![](https://tokei.rs/b1/github/guitongli/repository?category=type)
