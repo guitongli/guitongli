@@ -12,14 +12,11 @@
 <p  align="center"> 💬 Ask me about how to compose on guitar with special tuning </p> 
 <p  align="center"> 📫 Feel free to reach out to me at guitong.lee.contact@gmail.com</p>
  
+![Guitong's GitHub stats](https://github-readme-stats.vercel.app/api?username=guitongli&count_private=true&&theme=radical)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guitongli&layout=compact)](https://github.com/guitongli/github-readme-stats)
+ 
 
-  <br> 
- 
-<br> 
- 
-<hr>
- <img height=”180em” src=”https://github-readme-stats.vercel.app/apiusername=guitongli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-<img height=”180em” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=guitongli&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <hr>
 
 <h2 align="center">  Frontend</h2>
