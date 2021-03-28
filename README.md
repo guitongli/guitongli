@@ -18,7 +18,8 @@
 <br> 
  
 <hr>
- 
+ <img height=”180em” src=”https://github-readme-stats.vercel.app/apiusername=guitongli&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img height=”180em” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=guitongli&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <hr>
 
 <h2 align="center">  Frontend</h2>
